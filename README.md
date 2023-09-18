@@ -46,7 +46,7 @@
 
 ## Скриншоты:
 
-![NMCH_EN_001](https://github.com/telegram-prime/telegram-numbers-checker/assets/94137664/27067bf5-c2ef-48a1-90bf-583bf1d58055)
+![NMCH_RU_001](https://github.com/telegram-prime/telegram-numbers-checker-RU/assets/94137664/c6174687-8d58-40fd-aba3-e0667a7b8633)
 
 
 ##  Контакты:
@@ -63,3 +63,4 @@
 ## Донаты:
 * [Купить нам кофе :)](https://nowpayments.io/donation/telegramprime)
 * Благодарим Вас!
+
