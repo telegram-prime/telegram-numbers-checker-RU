@@ -47,7 +47,8 @@
 
 ## Скриншоты:
 
-![image](https://github.com/telegram-prime/telegram-numbers-checker-RU/assets/94137664/59c92734-0230-4f23-bed4-f847627bb07c)
+![image](https://github.com/telegram-prime/telegram-numbers-checker-RU/assets/94137664/e1df36dd-d634-450b-ad39-aa6cf3ca45d5)
+
 
 
 ##  Контакты:
