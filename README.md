@@ -18,6 +18,7 @@
  - Сортировка номеров по валиднам и невадидам в отдельные отчеты.
  - Ограничения количества проверяемых номеров на аккаунт в рамках одного круга проверки.
  - Возможность очистки тел книги аккаунта до проверки номеров.
+ - Возможность отключения логирования в интерфей при работе с большими объемами информации.
  - Поддержка практически всех известных провайдеров прокси как в HTTP так и SOCKS формате.
  - Экспорт результатов проверки как в TXT, так и в CSV либо XLSX.
  - Экспортируемые данные: номер, логин, телеграм ID.
@@ -46,14 +47,16 @@
 
 ## Скриншоты:
 
-![NMCH_RU_001](https://github.com/telegram-prime/telegram-numbers-checker-RU/assets/94137664/c6174687-8d58-40fd-aba3-e0667a7b8633)
+![image](https://github.com/telegram-prime/telegram-numbers-checker-RU/assets/94137664/59c92734-0230-4f23-bed4-f847627bb07c)
 
 
 ##  Контакты:
 - Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
-- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Telegram: [Send message](https://telegramprime.net/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.net/icq-contact)
+- TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
+- Discord:  [Send message](https://telegramprime.net/discord-contact)
+- Element:  [Send message](https://telegramprime.net/element-contact)
 
 * либо через форму связи на наших сайтах Telegram PRIME:
 - Wеb: https://telegramprime.net/ - EN Version
