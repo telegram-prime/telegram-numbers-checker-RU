@@ -2,8 +2,8 @@
 ## Незаменимый инструмент для тех, кто ищет качественные способы сбора аудитории для работы с Telegram.
 ## Собирайте свои базы номеров с различных ресурсов и проверяйте их принадлежность к Телеграм.
  
- * Software description is also available in English. See [NMCH - Image Randomizer EN](https://github.com/telegram-prime/telegram-numbers-checker)
- * 描述也可以在Chineese中提供。 参见 [NMCH - Image Randomizer CN](https://github.com/telegram-prime/image-randomizer-CN) [In progress]
+ * Software description is also available in English. See [NMCH - TG Phone Numbers Checker EN](https://github.com/telegram-prime/telegram-numbers-checker)
+ * 描述也可以在Chineese中提供。 参见 [NMCH - TG Phone Numbers Checker CN](https://github.com/telegram-prime/telegram-numbers-checker-CN)
 
 ## Функционал:
  - Проверка номеров на наличие Telegram.
