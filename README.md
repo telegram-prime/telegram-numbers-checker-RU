@@ -9,7 +9,7 @@
  - Проверка номеров на наличие Telegram.
  - Работа во множество потоков.
  - Возможность выставлять задержки между проверками номеров.
- - Работа как с TDATA, так и с SESSION, так и с SESSION+JSON аккаунтами.
+ - Работа как с TDATA, так и с SESSION (Telethon либо Pyrogram), так и с SESSION+JSON (Telethon либо Pyrogram) аккаунтами.
  - Тип аккаунта SESSION+JSON определяется автоматически при наличии JSON файла в папке с аккаунтами и используется именно его параметры для подкдючения к сессии.
  - Высокая скорость проверки номеров (при условии использования множества аккаунтов).
  - Отсеивание нерабочих или получивших ограничения аккаунтов.
@@ -21,7 +21,7 @@
  - Возможность отключения логирования в интерфей при работе с большими объемами информации.
  - Поддержка практически всех известных провайдеров прокси как в HTTP так и SOCKS формате.
  - Экспорт результатов проверки как в TXT, так и в CSV либо XLSX.
- - Экспортируемые данные: номер, логин, телеграм ID.
+ - Экспортируемые данные: номер, логин, телеграм ID, настоящее имя, последнее время в сети, премиум, фото, день рождения, канал, истории, био.
  - Возможность работы без прокси (для отважных ребят :) )
  - Подробное логирование всей работы программы для каждой рабочей сессии в отдельный файл (может использоваться как отчек для заказчика).
  - Привязка к железу, с возможностью сброса ключа через менеджера. Сброс бесплатен.
@@ -46,20 +46,19 @@
 
 
 ## Скриншоты:
-
-![image](https://github.com/telegram-prime/telegram-numbers-checker-RU/assets/94137664/e1df36dd-d634-450b-ad39-aa6cf3ca45d5)
+<img width="256" alt="NMCH_1 8_RU_001" src="https://github.com/user-attachments/assets/07db9c46-d3f8-4f25-873a-e3c8cde3baa8" />
+<img width="256" alt="NMCH_1 8_RU_002" src="https://github.com/user-attachments/assets/df8a2553-4aac-49ca-9b0f-cea4bdbf563c" />
 
 
 
 ##  Контакты:
 - Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.net/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.net/icq-contact)
 - TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.net/discord-contact)
 - Element:  [Send message](https://telegramprime.net/element-contact)
 
-* либо через форму связи на наших сайтах Telegram PRIME:
+* либо через форму связи на сайтах:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
 
