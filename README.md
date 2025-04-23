@@ -10,6 +10,7 @@
  - Работа во множество потоков.
  - Возможность выставлять задержки между проверками номеров.
  - Работа как с TDATA, так и с SESSION (Telethon либо Pyrogram), так и с SESSION+JSON (Telethon либо Pyrogram) аккаунтами.
+ - Возможность проверки номера без использования аккаунтов, только проверка на регистрацию в ТГ, никакой другой информации не будет загружено.
  - Тип аккаунта SESSION+JSON определяется автоматически при наличии JSON файла в папке с аккаунтами и используется именно его параметры для подкдючения к сессии.
  - Высокая скорость проверки номеров (при условии использования множества аккаунтов).
  - Отсеивание нерабочих или получивших ограничения аккаунтов.
@@ -21,6 +22,7 @@
  - Возможность отключения логирования в интерфей при работе с большими объемами информации.
  - Поддержка практически всех известных провайдеров прокси как в HTTP так и SOCKS формате.
  - Экспорт результатов проверки как в TXT, так и в CSV либо XLSX.
+ - Отчет о эффективности работы аккаунтов (сколько номеров каждый аккаунт проверил).
  - Экспортируемые данные: номер, логин, телеграм ID, настоящее имя, последнее время в сети, премиум, фото, день рождения, канал, истории, био.
  - Возможность работы без прокси (для отважных ребят :) )
  - Подробное логирование всей работы программы для каждой рабочей сессии в отдельный файл (может использоваться как отчек для заказчика).
@@ -46,9 +48,9 @@
 
 
 ## Скриншоты:
-<img width="256" alt="NMCH_1 8_RU_001" src="https://github.com/user-attachments/assets/07db9c46-d3f8-4f25-873a-e3c8cde3baa8" />
-<img width="256" alt="NMCH_1 8_RU_002" src="https://github.com/user-attachments/assets/df8a2553-4aac-49ca-9b0f-cea4bdbf563c" />
-
+<img width="256" alt="NMCH_2_1_RU_001" src="https://github.com/user-attachments/assets/df45d21b-cfef-4c56-ab4f-172c580a1376" />
+<img width="256" alt="NMCH_2_1_RU_002" src="https://github.com/user-attachments/assets/d9de582a-0744-4398-8fc9-cb7bb1fd11d2" />
+<img width="256" alt="NMCH_2_1_RU_003" src="https://github.com/user-attachments/assets/1743da86-ef9f-4457-9452-65daafcfcabb" />
 
 
 ##  Контакты:
@@ -56,7 +58,7 @@
 - Telegram: [Send message](https://telegramprime.net/telegram-contact)
 - TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.net/discord-contact)
-- Element:  [Send message](https://telegramprime.net/element-contact)
+- Matrix:  [Send message](https://telegramprime.net/element-contact)
 
 * либо через форму связи на сайтах:
 - Wеb: https://telegramprime.net/ - EN Version
