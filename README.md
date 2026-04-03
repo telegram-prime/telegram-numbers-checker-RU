@@ -46,7 +46,7 @@
 | Annual        | Безлимитное количество номеров      | 365 дней                  |
 
 ### 📥 Скачать
-**Всегда самая свежая версия** → [GitHub Releases](https://github.com/telegram-prime/telegram-numbers-checker-RU/releases/latest)
+**Всегда самая свежая версия** → [Website](https://telegram-checker.com/downloads/nmch/ru/latest)
 
 ### 🎬 Видео-руководство
 [Смотреть на YouTube](https://youtu.be/3Zr69rco5Z0)
@@ -60,12 +60,11 @@
 
 | Канал       | Ссылка                                                      |
 |-------------|-------------------------------------------------------------|
-| Email       | manager[@]telegramprime.net                                 |
-| Telegram    | [Написать](https://telegramprime.net/telegram-contact)      |
-| Discord     | [Написать](https://telegramprime.net/discord-contact)       |
-| Element     | [Написать](https://telegramprime.net/element-contact)       |
-| Website (EN)| https://telegramprime.net/                                  |
-| Website (RU)| https://telegramprime.com/                                  |
+| Email       | manager[@]telegram-checker.com                              |
+| Telegram    | [Написать](https://telegram-checker.com/telegram-contact)   |
+| Discord     | [Написать](https://telegram-checker.com/discord-contact)    |
+| Element     | [Написать](https://telegram-checker.com/element-contact)    |
+| Website     | https://telegram-checker.com/                               |
 
 (или используйте форму обратной связи на сайте)
 
